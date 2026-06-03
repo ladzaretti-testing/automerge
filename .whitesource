@@ -35,7 +35,6 @@
     "workflowRules": {
       "enabled": true
     },
-    "enableRenovate": true,
     "branchPrefix": "foo/",
     "dependencyDashboard": true
   },
