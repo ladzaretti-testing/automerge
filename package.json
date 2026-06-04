@@ -2,7 +2,6 @@
   "dependencies":{
     "lodash": "4.0.0",
     "got": "14.4.7",
-    "foobarfoo": "1.0.0",
     "graceful-fs": "4.2.4"
   }
 }
