@@ -25,7 +25,7 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
+    "issueType": "VULNERABILITY"
   },
   "issueSettingsSAST": {
     "minSeverityLevel": "high",
